@@ -9,7 +9,7 @@ O projeto foi criado para exercitar a programação em C# (.NET), e estudar sobr
 * Links das minhas redes sociais!!
 
 * LinkedIn: 
-*[Leandro Di Nardo Lazarin](https://www.linkedin.com/in/leandro-di-nardo-lazarin-694a59236/)
+[Leandro Di Nardo Lazarin](https://www.linkedin.com/in/leandro-di-nardo-lazarin-694a59236/)
 
-*Facebook:
-*[Leandro Di Nardo Lazarin](https://www.facebook.com/leandro.dinardolazarin)
+* Facebook:
+[Leandro Di Nardo Lazarin](https://www.facebook.com/leandro.dinardolazarin)
